@@ -1,8 +1,10 @@
--👋 Hi, I’m @UndeeZ
+# :wave: Wattup, I'm Undeez (or UndeadZ if u know me from somewhere else)
 
--You're probably wondering how I got here
+I upload my side projects for stuff like OpenGL and gamedev here.
 
--*Baba O' Reiley starts playing*
+Glory to FOSS and SSH
+
+
 
 <!---
 UndeeZ/UndeeZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
