@@ -1,4 +1,4 @@
-# :wave: Wattup, I'm Undeez (or UndeadZ if u know me from somewhere else)
+# :wave: Wattup, I'm UndeeZ (or UndeadZ if u know me from somewhere else)
 
 I upload my side projects for stuff like OpenGL and gamedev here.
 
