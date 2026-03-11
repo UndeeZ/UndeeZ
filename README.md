@@ -2,9 +2,7 @@
 
 I upload my side projects for stuff like OpenGL and gamedev here.
 
-Glory to FOSS and SSH
-
-
+Glory to FOSS
 
 <!---
 UndeeZ/UndeeZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
